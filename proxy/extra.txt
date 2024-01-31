@@ -1,0 +1,10 @@
+// Tested on Firefox 113.0.1 and above
+// == Websites that work ==
+// http://neverssl.com/
+// httpforever.com/
+// == Mostly works, but gets stuck at the end ==
+// http://www.slackware.com/
+// http://www.columbia.edu/~fdc/sample.html
+// == Some stuff loads, sometimes ==
+// http://eu.httpbin.org/
+// http://www.http2demo.io/
